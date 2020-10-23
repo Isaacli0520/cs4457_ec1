@@ -1,1 +1,1 @@
-web: python jewel.py 2333 files
+web: python jewel.py $PORT files
